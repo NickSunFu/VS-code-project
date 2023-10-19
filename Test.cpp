@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // test
 #include<string.h>
 #include <cstdlib> /* 亂數相關函數 */
 #include <ctime>   /* 時間相關函數 */
